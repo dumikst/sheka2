@@ -4,7 +4,7 @@ from config import TOKEN
 from handlers import setup_handlers
 
 def main():
-    bot = telebot.TeleBot(TOKEN)
+    bot = 8133521404:AAHQ8tcxjdCCVoid_jVvJlTWbx3RcFJC_YQ
 
     user_messages = {}
     user_message_ids = {}
